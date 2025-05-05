@@ -1,0 +1,13 @@
+{
+    "name": "Lovish",
+    "age": 29,
+    "email": "test@example.com",
+    "address": {
+        "street": "Sector 9, Rohini",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "pincode": "110002"
+    },
+    "isActive": true
+}
