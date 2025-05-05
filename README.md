@@ -1,11 +1,17 @@
 # hello-reader
 
-Please start redis locally before starting to enable caching.
+Please start redis locally before starting server to enable caching.
 
-Steps to run
+## USAGE
 
-go run .
+1) go mod tidy 
 
-Steps to test
+2) go run . <source>
 
-go test -v
+SOURCE EXAMPLE: mockdata/mockdata.txt, https://jsonplaceholder.typicode.com/todos
+
+## TESTING
+
+1) go test -v
+
+Built with ❤️ by Lovish Wadhera!
